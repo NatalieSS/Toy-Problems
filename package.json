@@ -1,0 +1,23 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "main": "diceRoll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieSS/Toy-Problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalieSS/Toy-Problems/issues"
+  },
+  "homepage": "https://github.com/NatalieSS/Toy-Problems#readme"
+}
