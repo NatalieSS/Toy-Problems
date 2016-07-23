@@ -1,4 +1,4 @@
-// Write a function to determine if a string is a palindrome.
+// Palindrome Test: Write a function to determine if a string is a palindrome.
 
 var palindromeTest = function(str) {
   var palindrome = true;

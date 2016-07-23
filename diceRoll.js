@@ -1,4 +1,4 @@
-// Write a function that rolls a pair of dice randomly.
+// Dice Roll: Write a function that rolls a pair of dice randomly.
 
 var diceRoll = function() {
   // perform same randomization twice

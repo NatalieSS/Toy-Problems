@@ -1,4 +1,4 @@
-// Write a function that returns the sum from 1 to n given n.
+// Sum of all Preceding Numbers: Write a function that returns the sum from 1 to n given n.
 
 var sumToN = function(n) {
   var counter = 1;

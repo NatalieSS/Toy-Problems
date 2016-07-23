@@ -1,4 +1,4 @@
-// Write a function that counts the number of words in a string.
+// Word Count: Write a function that counts the number of words in a string.
 
 var wordCount = function(str) {
   var counter = 1;
